@@ -1,17 +1,14 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'أخبار الكوفيد 19 في الجزائر', // Required
+  author: 'Raedin Khaled', // Required
+  description: 'Full-stack Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    facebook: 'https://www.facebook.com/raedin.khaled',
   },
-  pathPrefix: '/devblog',
+  pathPrefix: '/CoronaNews',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
 };
