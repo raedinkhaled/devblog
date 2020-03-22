@@ -1,7 +1,6 @@
 module.exports = {
   title: 'أخبار الكوفيد 19 في الجزائر', // Required
-  author: 'Raedin Khaled', // Required
-  description: 'Full-stack Developer',
+  author: 'أخبار الكوفيد 19 في الجزائر', // Required
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
