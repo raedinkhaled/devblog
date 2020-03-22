@@ -8,6 +8,4 @@ module.exports = {
   social: {
     facebook: 'https://www.facebook.com/raedin.khaled',
   },
-  pathPrefix: '/CoronaNews',
-  siteUrl: 'https://news.covid19-algeria.com',
 };
