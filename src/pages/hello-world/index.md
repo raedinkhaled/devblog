@@ -1,19 +1,20 @@
 ---
-title: Hello World
+title: رئيس الجمهورية يعلن عن حزمة من "الاجراءات الفورية" لمواجهة وباء كورونا
 date: "2018-06-30"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
-
+أعلن رئيس الجمهورية السيد عبد المجيد تبون يوم الاحد عن حزمة من الاجراءات للتطبيق الفوري وذلك في اطار التدابير المتخذة لمحاربة تفشي وباء كورزنا المستجد .
 <!-- end -->
 
-Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+استهل مجلس الوزراء أشغاله بالاستماع إلى عرض الوزير الأول حول النشاط الحكومي خلال الاسبوعين الماضيين ثم استمع إلى مداخلة وزير المالية حول الوضعية المالية الراهنة، أبلغ على إثرها رئيس الجمهورية مجلس الوزراء بقراره "تأجيل دراسة مشروع قانون المالية التكميلي" إلى حين تقييم انعكاسات الإجراءات المالية المتخذة على مستوى الحكومة  وتطور الوضع في العالم  يضيف ذات المصدر.
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis. Proin in tellus eu nisi dictum posuere eu id felis. Donec eget mi sit amet neque efficitur suscipit ut ut neque. Vivamus egestas, augue vitae vestibulum feugiat, lorem elit lobortis nulla, eget ornare arcu ipsum ac lacus. Proin a suscipit ligula, non facilisis nibh. Nunc et eros magna.
+في انتظار ذلك - يضيف البيان- أعلن رئيس الجمهورية عن حزمة من الإجراءات للتطبيق الفوري ، مكملة لتك التي تم اتخاذها قبل ايام لمواجهة تفشي وباء كورونا (كوفيد-19) و تتمثل في تخفيض قيمة فاتورة الاستيراد من 41 إلى 31 مليار دولار وتقليص نفقات ميزانية التسيير ب 30% دون المساس بأعباء الرواتب.
 
->Aenean quis nisi eros. Praesent a libero et ante sagittis dictum eget id ipsum. Duis sit amet bibendum justo. Morbi faucibus vehicula bibendum. Praesent ornare hendrerit commodo. Praesent sit amet nisi mauris. Aenean maximus pharetra lacinia. Praesent efficitur erat id dolor laoreet rhoncus. Cras eu efficitur arcu. Nunc pretium, nunc sit amet rutrum molestie, arcu nisi tempus ligula, eu dapibus leo tortor in quam.
+كما أمر السيد تبون بالتوقف عن إبرام عقود الدراسات والخدمات مع المكاتب الأجنبية مما سيوفر للجزائر حوالي سبعة مليارات دولار سنويا فضلا عن تأجيل إطلاق المشاريع المسجلة  أو قيد التسجيل  التي لم يشرع في إنجازها  ما عدا في مناطق الظل وكذلك المشروع المتعلق بدراسة مستشفى مكافحة السرطان في الجلفة.
 
-Vivamus viverra id ipsum nec hendrerit. Fusce mollis enim et ultricies varius. Nam at dictum augue, id dictum augue. Fusce laoreet purus id iaculis cursus. Donec non velit est. Integer pellentesque viverra sapien, id rhoncus ipsum dictum ac. Aliquam vel maximus tortor, vitae interdum turpis. Etiam egestas elementum massa, id dictum magna suscipit vel. Curabitur mi tellus, pharetra eget nisi vitae, blandit vulputate nibh. Aenean tincidunt purus eu feugiat pulvinar. Maecenas quis laoreet lorem, a molestie urna. Cras iaculis justo elit, nec venenatis ante sollicitudin a. Cras eu pellentesque arcu, sit amet auctor felis.
+و في اطار ذات الاجراءات أمر السيد تبون بالإبقاء دون مساس على النفقات المرتبطة بقطاع الصحة  وتدعيم وسائل محاربة تفشي وباء كورونا فيروس والأمراض الوبائية بصفة عامة و عدم  المساس بمستوى النفقات المرتبطة بقطاع التربية.
+
+الى جانب ذلك حث رئيس الجمهورية للتكفل في قانون المالية التكميلي لسنة 2020 عند إعداده  بخسائر المتعاملين الذين تضرروا من تفشي الوباء ، كما أمر بتكليفالشركة الوطنية للمحروقات سوناطراك بالتخفيض من أعباء الاستغلال ونفقات الاستثمار  من 14 إلى 7 مليارات دولار قصد الحفاظ على احتياطي الصرف.
 
 ```javascript
 $(document).ready(function() {
